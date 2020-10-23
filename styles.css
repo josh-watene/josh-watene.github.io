@@ -1,0 +1,49 @@
+body {
+    background-color: LightSkyBlue;
+}
+nav ul {
+    background-color: tomato;
+}
+nav ul li {
+    list-style-type: none;
+   display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+nav ul {
+  background-color: tomato;
+  border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+.topDivider {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #F5FFFA;
+  padding-bottom: 10px;
+}
+.stylishBox {
+  background-color: #87CEFA;
+  color: #A52A2A;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #F5FFFA;
+  border-radius: 10px;
+}
+.someSpacing {
+  padding: 10px;
+  margin-top: 20px;
+}
+#frontPage {
+    background: #48D1CC;
+    background: linear-gradient(#fea3aa, #f8b88b, #faf884, #baed91, #baed91, #b2cefe, #f2a2e8, #fea3aa);
+}
+
+
+
+
